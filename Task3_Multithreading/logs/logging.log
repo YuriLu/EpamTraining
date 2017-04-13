@@ -1,0 +1,1 @@
+2016-04-11 18:06:03 ERROR by.training.epam.threads.DispatcherThread.<init> 28 - by.training.epam.exceptions.IllegalTunnelDirectionsException: The tunnels can`t have the same directions!
