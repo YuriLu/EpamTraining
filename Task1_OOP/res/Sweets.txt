@@ -1,0 +1,7 @@
+﻿-=#New year present#=-
+LollipopBarbarisBuilder,4
+ChocolateCandyAlenkaBuilder,3
+ChocolateBarAirFunBuilder,1
+ChocolateCandyKryzhachekBuilder,5
+LollipopBuratinoBuilder,3
+GingerbreadDruzhbaBuilder,1
