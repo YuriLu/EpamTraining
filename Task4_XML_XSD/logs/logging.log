@@ -1,0 +1,8 @@
+2016-04-20 21:22:44 ERROR by.training.epam.main.XmlValidator.validate 36 - Validation error. cvc-datatype-valid.1.2.1: '1001' is not a valid value for 'NCName'.
+2016-04-20 21:26:59 ERROR by.training.epam.main.XmlValidator.validate 36 - Validation error. cvc-pattern-valid: Value '1' is not facet-valid with respect to pattern '[0-9]{2,5}' for type 'Unique'.
+2016-04-20 21:27:20 ERROR by.training.epam.main.XmlValidator.validate 36 - Validation error. cvc-datatype-valid.1.2.1: '1001' is not a valid value for 'NCName'.
+2016-04-20 21:31:48 ERROR by.training.epam.main.XmlValidator.validate 36 - Validation error. cvc-elt.1: Cannot find the declaration of element 'candies'.
+2016-04-20 21:48:04 INFO  by.training.epam.main.XmlValidator.validate 33 - Document is valid!
+2016-04-20 21:51:10 INFO  by.training.epam.main.XmlValidator.validate 33 - Document is valid!
+2016-04-20 22:03:13 INFO  by.training.epam.main.XmlValidator.validate 33 - Document is valid!
+2016-04-27 21:12:22 INFO  by.training.epam.main.XmlValidator.validate 33 - Document is valid!
